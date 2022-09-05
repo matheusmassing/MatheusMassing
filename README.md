@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Freelancer
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/del
+- 😄 Ele/dele
 <div align="center">
   <a href="https://github.com/matheusmassing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmassing&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
